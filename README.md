@@ -1,4 +1,4 @@
-![](./icone.png)
+![](./new_decomp.png)
 # DECOMP - Técnica de estimativa por decomposição
 *Cleuton Sampaio* 2019
 
