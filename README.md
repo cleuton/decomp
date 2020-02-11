@@ -2,6 +2,8 @@
 # DECOMP - Técnica de estimativa por decomposição
 *Cleuton Sampaio* 2019
 
+[![](./banner_livros2.png)](https://www.lcm.com.br/site/#livros/busca?term=cleuton)
+
 ```
 Copyright 2019 Cleuton Sampaio
 
